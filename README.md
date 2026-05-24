@@ -1,1 +1,1 @@
-# .Household Hub Projectb
+# Household Hub Projectb
