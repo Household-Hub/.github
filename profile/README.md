@@ -1,5 +1,7 @@
 # Household Hub
 
+**The operating system of your household.**
+
 ## Goal
 
 The goal of Household Hub is to provide a centralized platform for managing household-related information, tasks, inventories, documents, and routines in a simple and user-friendly way.
